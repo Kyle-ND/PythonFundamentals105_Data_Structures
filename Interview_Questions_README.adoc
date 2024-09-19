@@ -1,0 +1,86 @@
+= Data Structures in Python Assessment
+
+== Introduction
+
+This assessment is designed to evaluate your understanding of data structures in Python. 
+The assessment is divided into several sections, including multiple-choice questions, 
+code implementation, analysis, and problem-solving tasks. This assessment covers the 
+key concepts related to lists, tuples, dictionaries, and sets, as well as their practical applications.
+
+== Instructions
+
+Follow the instructions for each section carefully. 
+You are required to answer all the questions and complete the coding tasks where applicable.
+
+== Section 1: Multiple Choice Questions
+
+1. What is the main difference between a list and a tuple in Python?
+   a) Lists are mutable, and tuples are immutable.
+   b) Lists are indexed by numbers, and tuples are indexed by strings.
+   c) Lists can contain only numbers, while tuples can contain any data type.
+   d) Lists and tuples are essentially the same.
+
+2. In Python, which data structure is used to store key-value pairs?
+   a) List
+   b) Tuple
+   c) Dictionary
+   d) Set
+
+3. What is the primary purpose of a set in Python?
+   a) To store elements in an ordered sequence.
+   b) To store key-value pairs.
+   c) To store a collection of unique elements.
+   d) To store elements in a sorted order.
+
+4. Which of the following data structures in Python is not iterable?
+   a) List
+   b) Tuple
+   c) Set
+   d) Dictionary
+
+5. How do you add an element at the end of a list in Python?
+   a) Using the `add` method
+   b) Using the `insert` method
+   c) Using the `append` method
+   d) Using the `extend` method
+
+== Section 2: Code Implementation
+
+6. Implement a Python function `find_common_elements(list1, list2)` 
+that takes two lists as input and returns a new list containing 
+elements that are common in both lists.
+
+7. Write a Python function `reverse_dictionary(input_dict)` that 
+takes a dictionary as input and returns a new dictionary where 
+the keys and values are reversed.
+
+== Section 3: Code Analysis
+
+8. Given a list with mixed data types: 
+`[1, 'apple', 2.5, True, [4, 5, 6]]`, 
+analyse and describe the advantages and disadvantages 
+of using this list as a data structure in Python.
+
+9. Consider a scenario where you need to store and 
+manage a collection of student records, including their 
+names and exam scores. Discuss which data structure in Python 
+(list, tuple, dictionary, or set) would be the most suitable for this task and explain why.
+
+== Section 4: Problem Solving
+
+10. Write a Python program to find the intersection of two sets:
+ `set1 = {1, 2, 3, 4, 5}` and `set2 = {4, 5, 6, 7, 8}`.
+
+11. You are given a list of words. 
+Write a Python program to find the word that occurs most frequently in the list.
+
+== Section 5: Short Answer
+
+12. Explain the key characteristics and use cases of Python lists, tuples, dictionaries, and sets.
+
+13. Describe the concept of immutability and provide an example of an immutable data structure in Python.
+
+== Section 6: Coding Challenge (Optional)
+
+14. Design and implement a Python program that simulates a basic student record system. 
+It should allow the user to add, update, and retrieve student records using dictionaries.
