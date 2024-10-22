@@ -21,3 +21,6 @@
 # Create a list of new expenses and extend the original list with these new expenses.
 # Remove all expenses that are less than R10.
 # Print the updated list of daily expenses.
+
+def main():
+    ...
